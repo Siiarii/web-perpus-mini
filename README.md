@@ -5,11 +5,11 @@ Aplikasi web dinamis **Web Perpustakaan Mini (Data Buku, Anggota, & Peminjaman)*
 ---
 
 ## Identitas Mahasiswa
-- **Nama Lengkap:** Faisal Listianto
-- **NIM:** 17243002
+- **Nama Lengkap:** M Fachri A.H
+- **NIM:** 17241003
 - **Kelas:** TI 5.A
 - **Mata Kuliah:** Pemrograman Web
-- **Repositori GitHub:** `https://github.com/siisall/web-perpus-mini.git`
+- **Repositori GitHub:** `https://github.com/Siiarii/web-perpus-mini`
 
 ---
 
