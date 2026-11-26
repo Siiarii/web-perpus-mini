@@ -55,7 +55,7 @@ web-perpus-mini/
 │   ├── screenshots/
 │   │   ├── desktop.png
 │   │   └── mobile.png
-│   └── Laporan Project Faisal Listianto.docx
+│   └── Laporan Project Fachri.docx
 ├── README.md
 └── .gitignore
 ```
