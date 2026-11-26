@@ -1,0 +1,157 @@
+{
+    "buku": [
+        {
+            "id": "BK-001",
+            "kode": "BK-001",
+            "judul": "Pemrograman Web Modern dengan HTML5 & CSS3",
+            "penulis": "Budi Raharjo",
+            "kategori": "Teknologi",
+            "tahun": 2024,
+            "stok": 5,
+            "rak": "A-01"
+        },
+        {
+            "id": "BK-002",
+            "kode": "BK-002",
+            "judul": "Dasar Logika & Algoritma Pemrograman PHP",
+            "penulis": "Abdul Kadir",
+            "kategori": "Teknologi",
+            "tahun": 2023,
+            "stok": 3,
+            "rak": "A-02"
+        },
+        {
+            "id": "BK-003",
+            "kode": "BK-003",
+            "judul": "Laskar Pelangi",
+            "penulis": "Andrea Hirata",
+            "kategori": "Fiksi",
+            "tahun": 2005,
+            "stok": 4,
+            "rak": "B-01"
+        },
+        {
+            "id": "BK-004",
+            "kode": "BK-004",
+            "judul": "Sapiens: Riwayat Singkat Umat Manusia",
+            "penulis": "Yuval Noah Harari",
+            "kategori": "Sejarah",
+            "tahun": 2017,
+            "stok": 1,
+            "rak": "C-03"
+        },
+        {
+            "id": "BK-005",
+            "kode": "BK-005",
+            "judul": "Kosmos: Menjelajahi Semesta",
+            "penulis": "Carl Sagan",
+            "kategori": "Sains",
+            "tahun": 2016,
+            "stok": 0,
+            "rak": "C-01"
+        },
+        {
+            "id": "BK-006",
+            "kode": "BK-006",
+            "judul": "Atomic Habits: Perubahan Kecil Hasil Luar Biasa",
+            "penulis": "James Clear",
+            "kategori": "Non-Fiksi",
+            "tahun": 2019,
+            "stok": 6,
+            "rak": "D-02"
+        }
+    ],
+    "anggota": [
+        {
+            "id": "AGT-001",
+            "kode": "AGT-001",
+            "nama": "Faisal Listianto",
+            "nim": "17243002",
+            "kelas": "TI 5.A",
+            "kontak": "0812-3456-7890",
+            "status": "Aktif"
+        },
+        {
+            "id": "AGT-002",
+            "kode": "AGT-002",
+            "nama": "Nadia Putri Rahmawati",
+            "nim": "17243015",
+            "kelas": "TI 5.A",
+            "kontak": "0813-9876-5432",
+            "status": "Aktif"
+        },
+        {
+            "id": "AGT-003",
+            "kode": "AGT-003",
+            "nama": "Rizky Pratama",
+            "nim": "17243021",
+            "kelas": "TI 5.B",
+            "kontak": "0857-1122-3344",
+            "status": "Aktif"
+        },
+        {
+            "id": "AGT-004",
+            "kode": "AGT-004",
+            "nama": "Siti Aisyah",
+            "nim": "17243034",
+            "kelas": "SI 5.A",
+            "kontak": "0821-5566-7788",
+            "status": "Aktif"
+        },
+        {
+            "id": "AGT-005",
+            "kode": "AGT-005",
+            "nama": "Dimas Saputra",
+            "nim": "17243040",
+            "kelas": "TI 5.B",
+            "kontak": "0852-9988-7766",
+            "status": "Nonaktif"
+        }
+    ],
+    "peminjaman": [
+        {
+            "id": "PJM-001",
+            "kode": "PJM-001",
+            "anggota_id": "AGT-001",
+            "buku_id": "BK-001",
+            "jumlah": 1,
+            "tanggal_pinjam": "2026-11-22",
+            "tanggal_jatuh_tempo": "2026-11-29",
+            "tanggal_kembali": "",
+            "status": "Dipinjam"
+        },
+        {
+            "id": "PJM-002",
+            "kode": "PJM-002",
+            "anggota_id": "AGT-002",
+            "buku_id": "BK-004",
+            "jumlah": 1,
+            "tanggal_pinjam": "2026-11-24",
+            "tanggal_jatuh_tempo": "2026-12-01",
+            "tanggal_kembali": "",
+            "status": "Dipinjam"
+        },
+        {
+            "id": "PJM-003",
+            "kode": "PJM-003",
+            "anggota_id": "AGT-003",
+            "buku_id": "BK-003",
+            "jumlah": 1,
+            "tanggal_pinjam": "2026-11-10",
+            "tanggal_jatuh_tempo": "2026-11-17",
+            "tanggal_kembali": "2026-11-16",
+            "status": "Dikembalikan"
+        },
+        {
+            "id": "PJM-004",
+            "kode": "PJM-004",
+            "anggota_id": "AGT-004",
+            "buku_id": "BK-006",
+            "jumlah": 1,
+            "tanggal_pinjam": "2026-11-12",
+            "tanggal_jatuh_tempo": "2026-11-19",
+            "tanggal_kembali": "2026-11-18",
+            "status": "Dikembalikan"
+        }
+    ]
+}

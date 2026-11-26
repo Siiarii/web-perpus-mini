@@ -1,0 +1,9 @@
+# Folder referensi tugas (tidak perlu diunggah ke repo produksi)
+_referensi/
+
+# File sistem & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
